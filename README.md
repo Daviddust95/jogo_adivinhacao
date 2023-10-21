@@ -20,7 +20,7 @@ Aplicação que utiliza a biblioteca Randon, se trata de um jogo simples de adiv
 
 - JAVA
 
-## Instalação Local:
+## Instalação:
 
 Certifique-se de ter o JavaJDK instalado em sua máquina. Você pode baixá-lo em: https://www.oracle.com/br/java/technologies/downloads/
 
@@ -30,6 +30,8 @@ Clone este repositório em sua máquina usando o seguinte comando:
    ```bash
    
    https://github.com/Daviddust95/jogo_adivinhacao.git
+   
+## Como usar:
 
 **Após todas as dependências serem instaladas, basta executar o código fonte no vs code, ou outros editores de código.**
 
