@@ -33,7 +33,7 @@ Clone este repositório em sua máquina usando o seguinte comando:
 1. Clone o Repositório:
    ```bash
    
-   https://github.com/Daviddust95/jogo_adivinhacao.git
+   git clone https://github.com/Daviddust95/jogo_adivinhacao.git
    
 ## Como usar:
 
