@@ -1,7 +1,11 @@
-# jogo_adivinhacao
+# jogo de adivinhacao
 <justify>
 Jogo simples de adivinhação, onde o programa gera um número aleatório entre 1 e 100, e o jogador tenta adivinhar esse número. 
 </justify>
+
+## Capturas de Tela
+
+![Captura de tela 2023-10-22 153311](https://github.com/Daviddust95/jogo_adivinhacao/assets/124353154/7a2e1668-1386-4794-b300-1cdb45f7af5a)
 
 ## Conteúdo
 
