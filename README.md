@@ -1,4 +1,6 @@
 # jogo de adivinhacao
+![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-Sim-brightgreen.svg)
+
 <justify>
 Jogo simples de adivinhação, onde o programa gera um número aleatório entre 1 e 100, e o jogador tenta adivinhar esse número. 
 </justify>
